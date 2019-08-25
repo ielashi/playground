@@ -3,17 +3,6 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 
-def downsample(obs):
-    # Take only alternate pixels - basically halves the resolution of the image (which is fine for us)
-    return obs[::2, ::2]
-
-
-def remove_background(obs):
-    obs[obs == 109] = 0
-    obs[obs == 144] = 0
-    return obs
-
-
 class Preprocessor:
     def __init__(self):
         self.prev_processed_frame = None
@@ -24,8 +13,8 @@ class Preprocessor:
 
         # Remove color
         p_obs = p_obs[:, :, 0]
-        p_obs = downsample(p_obs)
-        p_obs = remove_background(p_obs)
+        p_obs = self.downsample(p_obs)
+        p_obs = self.remove_background(p_obs)
 
         # everything else (paddles, ball) just set to 1
         p_obs[p_obs != 0] = 1
@@ -43,6 +32,15 @@ class Preprocessor:
         else:
             self.prev_processed_frame = p_frame
             return np.zeros((80, 80))
+
+    def remove_background(self, obs):
+        obs[obs == 109] = 0
+        obs[obs == 144] = 0
+        return obs
+
+    def downsample(self, obs):
+        # Take only alternate pixels - basically halves the resolution of the image (which is fine for us)
+        return obs[::2, ::2]
 
 
 def main():
