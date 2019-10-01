@@ -43,20 +43,36 @@ class Preprocessor:
         return obs[::2, ::2]
 
 
+class Agent:
+    batch_size = 10  # how many episodes to wait before moving the weights
+    gamma = 0.99  # discount factor for reward
+    decay_rate = 0.99
+    num_hidden_layer_neurons = 200  # number of neurons
+    input_dimensions = 80 * 80  # dimension of our observation images
+    learning_rate = 1e-4
+
+    def __init__(self):
+        self.weights = {
+            "1": np.random.randn(self.num_hidden_layer_neurons, self.input_dimensions)
+            / np.sqrt(self.input_dimensions),
+            "2": np.random.randn(self.num_hidden_layer_neurons)
+            / np.sqrt(self.num_hidden_layer_neurons),
+        }
+
+
 def main():
+    Agent()
     env = gym.make("Pong-v0")
     observation = env.reset()
     preprocessor = Preprocessor()
 
     for i in range(80):
         p_obs = preprocessor.preprocess(observation)
-        print("p_obs")
-        print(p_obs.shape)
-        print(p_obs)
         if i % 20 == 0:
             plt.imshow(p_obs, interpolation="nearest")
             plt.show()
         action = env.action_space.sample()
+        print(action)
         observation, reward, done, info = env.step(action)
         env.render()
     env.close()
