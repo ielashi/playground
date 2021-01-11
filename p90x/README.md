@@ -2,13 +2,16 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 8 / 90
+## Progress: 9 / 90
 
 Workout progress is updated in the sheet in this folder.
 
 ## Notes
 
 ### Week 2
+
+* **Day 2: 2021.01.11**
+  Really enjoyed the plyometrics exercise. I am less sore than last week and there's definitely an improvement.
 
 * **Day 1: 2021.01.10**
   Did the chest and back workout followed by ab ripper x. I generally performed better than last week, although I want to avoid falling for the numbers game and sacrifice quality. It suffices to say that I feel really good.
