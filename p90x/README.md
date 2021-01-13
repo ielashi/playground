@@ -2,13 +2,19 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 9 / 90
+## Progress: 11 / 90
 
 Workout progress is updated in the sheet in this folder.
 
 ## Notes
 
 ### Week 2
+
+* **Day 4: 2021.01.13**
+  YogaX. Feeling better and more stable than last time, but still need work on the balances. It'll take time, but it's a very nice before-bed workout.
+
+* **Day 3: 2021.01.12**
+  Shoulders + arms. This time I did the bonus round, and it felt good. I used higher-resistance bands than last time, but I think I should experiment more with loop sizes rather than changing bands since that takes up a lot of time. I unfortunately forgot to do Ab Ripper this time.
 
 * **Day 2: 2021.01.11**
   Really enjoyed the plyometrics exercise. I am less sore than last week and there's definitely an improvement.
