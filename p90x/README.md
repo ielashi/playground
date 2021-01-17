@@ -2,13 +2,22 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 11 / 90
+## Progress: 14 / 90
 
 Workout progress is updated in the sheet in this folder.
 
 ## Notes
 
 ### Week 2
+
+* **Day 7: 2021.01.16**
+  Today was supposed to be my rest day, but I ended up doing KenpoX to catch up.
+
+* **Day 6: 2021.01.15**
+  Sadly, I couldn't do KenpoX that day because I had work followed by friends coming over for dinner. Sad =(
+
+* **Day 5: 2021.01.14**
+  Legs and back. I performed a little better than last week, but generally felt that I had really low energy. I think it's because I ate not too long before the workout - never again!
 
 * **Day 4: 2021.01.13**
   YogaX. Feeling better and more stable than last time, but still need work on the balances. It'll take time, but it's a very nice before-bed workout.
