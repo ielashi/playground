@@ -4,7 +4,7 @@ P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually 
 
 ## Progress: 17 / 90
 
-Workout progress is updated in the sheet in this folder.
+Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Notes
 
@@ -63,3 +63,22 @@ Workout progress is updated in the sheet in this folder.
 
 * **Day 1: 2021.01.03**
   Did the chest and back workout followed by ab ripper x. I deliberately underperformed in the chest & back so that I won't be too sore the next day. My abs have clearly regressed - I did maybe half of the reps in the exercises as it was too intense.
+
+## Worksheet
+
+### Shoulders & Arms
+
+_  | Week 3
+------------- | -------------
+01 Alternating Shoulder Presses  | R1: 12, B.G, need to use heavier weight<br>R2: 8, B.G.Bl, just right
+02 In & Out Bicep Curls  | R1: 16, B.G.Bl<br>R2: 16, B.G.Bl
+03 Two-Arm Tricep Kickbacks  | R1: 12, B.Bl<br>R2: 13, B.Bl
+04 Deep Swimmer’s Presses | R1: 12, B.G, can do more<br>R2: 8, B.G.Bl (just right)
+05 Full Supination Concentration Curls | R1: 14, B.G, can do more<br>R2: 14, B.G, too easy; more weight next time
+06 Chair Dips | R1: 20 (8 straight + 12 legs raised)<br>R2: 26 (5 straight + 16 legs raised + 5 straight)
+07 Upright Rows | R1: 13, B.Bl.G, no loop<br>R2: 11, B.Bl.G, small loop
+08 Static Arm Curls | R1: 16, B.Bl.G, no loop; do small loop next time<br>R2: 16, B.Bl.G, started with small loop, but was too hard.<br>Maybe less intense band and bigger loop next time
+09 Flip-Grip Twist Tricep Kickbacks | R1: 12, B, small loop; try bigger loop<br>R2: 12, B.Bl, no loop
+10 Two-Angle Shoulder Flys | R1: 16, B, no loop; just right<br>R2: 16, B, no loop
+11 Crouching Cohen Curls | R1: 13, B.Bl, small loop; bigger loop next time<br>R2: 15, B.Bl (slightly bigger loop, still need more)
+12 Lying-Down Tricep Extensions | R1: 15, Bl, too easy<br>R2: 8, B, slight pain in right shoulder; try green next time
