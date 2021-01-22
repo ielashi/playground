@@ -2,13 +2,23 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 17 / 90
+## Progress: 19 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Notes
 
 ### Week 3
+
+* **Day 6: 2021.01.22**
+  Legs + Back + AbRipper. This time around I did slightly less reps in pull-ups, but with cleaner form and an isometric hold.
+
+* **Day 5: 2021.01.21**
+  Rested. Felt like I needed a break.
+
+* **Day 4: 2021.01.20**
+  Yoga X. Getting deeper into the poses. Still struggling with some of the more advanced balancing exercises like half moon. Hamstrings are noticeably more flexible than last time (can reach my toes in single-leg stretches).
+
 * **Day 3: 2021.01.19**
   Shoulder + arms + ab ripper. I didn't do the bonus round unfortunately as I was very short on time. Better performance than last week.
 
@@ -82,3 +92,12 @@ _  | Week 3
 10 Two-Angle Shoulder Flys | R1: 16, B, no loop; just right<br>R2: 16, B, no loop
 11 Crouching Cohen Curls | R1: 13, B.Bl, small loop; bigger loop next time<br>R2: 15, B.Bl (slightly bigger loop, still need more)
 12 Lying-Down Tricep Extensions | R1: 15, Bl, too easy<br>R2: 8, B, slight pain in right shoulder; try green next time
+
+### Legs & Back
+
+_  | Week 3
+------------- | -------------
+01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold
+02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold
+03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold
+04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold
