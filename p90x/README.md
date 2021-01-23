@@ -9,6 +9,8 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 ## Notes
 
 ### Week 3
+* **Day 6: 2021.01.23**
+  Did both Stretch X and Kenpo X. Caught up with the original schedule.
 
 * **Day 6: 2021.01.22**
   Legs + Back + AbRipper. This time around I did slightly less reps in pull-ups, but with cleaner form and an isometric hold.
