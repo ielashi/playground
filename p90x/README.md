@@ -2,14 +2,31 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 19 / 90
+## Progress: 26 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Notes
 
+### Week 4 (rest week)
+
+* **Day 5: 2021.01.28**
+  Core synergistics. Enjoyed it much more than the first time. I was on the verge of not working out because I "wasn't feeling it". I'm glad I did.
+
+* **Day 4: 2021.01.27**
+  Stretch X
+
+* **Day 3: 2021.01.26**
+  Kenpo X. As usual, it's fun.
+
+* **Day 2: 2021.01.25**
+  Tried core synergistics for the first time. I didn't enjoy it very much to be honest, but also I just wasn't feeling very energetic because I ate not long before the exercise.
+
+* **Day 1: 2021.01.24**
+  Yoga X. My balance poses (e.g. half moon) are getting better. Also noticing an improvement in my hamstring stretches.
+
 ### Week 3
-* **Day 6: 2021.01.23**
+* **Day 7: 2021.01.23**
   Did both Stretch X and Kenpo X. Caught up with the original schedule.
 
 * **Day 6: 2021.01.22**
