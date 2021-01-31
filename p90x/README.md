@@ -8,18 +8,35 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ## Notes
 
+### Week 5
+* **Day 1: 2021.01.31**
+
+  Chest, Shoulders & Triceps + Ab Ripper X. I went a little easy on the first workout.
+
 ### Week 4 (rest week)
 
+* **Day 7: 2021.01.30**
+
+  X Stretch as Pascal's home in Merligen.
+
+* **Day 6: 2021.01.29**
+
+  Was supposed to do Yoga X, but decided to skip it because my shoulder wasn't feeling very good.
+  
 * **Day 5: 2021.01.28**
+
   Core synergistics. Enjoyed it much more than the first time. I was on the verge of not working out because I "wasn't feeling it". I'm glad I did.
 
 * **Day 4: 2021.01.27**
+
   Stretch X
 
 * **Day 3: 2021.01.26**
+
   Kenpo X. As usual, it's fun.
 
 * **Day 2: 2021.01.25**
+
   Tried core synergistics for the first time. I didn't enjoy it very much to be honest, but also I just wasn't feeling very energetic because I ate not long before the exercise.
 
 * **Day 1: 2021.01.24**
@@ -120,3 +137,32 @@ _  | Week 3
 02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold
 03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold
 04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold
+
+### Chest, Shoulders & Triceps
+
+_  | Week 5
+------------- | -------------
+01 Slow-Motion 3-in-1 Push-Ups | 4, 4, 1 + 3 with knees, no bonus
+02 In & Out Shoulder Flys | 16, RB (can do more)
+03 Chair Dips | 10 straight legs, 10 with leg raise (5 each side), 10 straight legs
+04 Plange Push-Ups | 10
+05 Pike Presses | 12 (in between version)
+06 Side Tri-Rises| 15 on each side
+07 Floor Flys | 16 (took a little break at 12)
+08 Scarecrows | 15, RB, can do more
+09 Overhead Tricep Extensions | 15, RB, can do more
+10 Two-Twitch Speed Push-Ups | 8
+11 Y-Presses | 13, BB, can do more
+12 Lying Tricep Extensions | 13, BB
+13 Side-to-Side Push-Ups | 10
+14 Pour Flys | 12, RB
+15 Side-Leaning Tricep Extensions | 12, 12, RB
+16 One-Arm Push-Ups | 8 (on knees, not very much depth)
+17 Weighted Circles | 30 + 4, Bl.B (took a break, couldn't finish last set)
+18 Throw the Bomb | 11 each side, RB, can do more
+19 Clap or Plyo Push-Ups | 6 (can do more but want to be careful with my shoulder)
+20 Slo-Mo Throws | forgot what I did (oops!)
+21 Front-to-Back Tricep Extensions | 10 each side, RB, can do more
+22 One-Arm Balance Push-Ups | 8
+23 Fly-Row Presses | 10 RB, can do more
+24 Dumbbell Cross-Body Blows | 10 each arm, BB
