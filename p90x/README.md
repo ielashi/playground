@@ -9,6 +9,13 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 ## Notes
 
 ### Week 5
+* **Day 3: 2021.02.02**
+
+  Did Back & Biceps + Ab Ripper. Doing better on Ab Ripper.
+
+* **Day 2: 2021.01.31**
+  Plyometrics. Love this workout.
+
 * **Day 1: 2021.01.31**
 
   Chest, Shoulders & Triceps + Ab Ripper X. I went a little easy on the first workout.
@@ -166,3 +173,32 @@ _  | Week 5
 22 One-Arm Balance Push-Ups | 8
 23 Fly-Row Presses | 10 RB, can do more
 24 Dumbbell Cross-Body Blows | 10 each arm, BB
+
+### Back & Biceps
+
+_  | Week 5
+------------- | -------------
+01 Wide Front Pull-Ups | 10
+02 Lawnmowers | 12, 12, R.G.B (more weight next time)
+03 Twenty-Ones | 7, 5, 5, R.G.B (too much weight)
+04 One-Arm Cross-Body Curls | 15, 15 R.G (too light)
+05 Switch Grip Pull-Ups | 12 (struggled on the last)
+06 Elbows-Out Lawnmowers | 8 (L), 10 (R), R.G.B, but tighter
+07 Standing Bicep Curls | 13 G.B
+08 One-Arm Concentration Curls | 12, 12, G.B
+09 Corn Cob Pull-Ups | 2 (should use chair next time)
+10 Reverse Grip Bent-Over Rows | 12 G.B (used a small loop, bigger loop or more weight next time)
+11 Open Arm Curls | 11 G.B
+12 Static Arm Curls | 16 G.B (just right)
+13 Towel Pull-Ups | 3 + 3 + 2 + 1
+14 Congdon Locomotives| 40 G.B (small loop, can do more)
+15 Crouching Cohen Curls | 15 G.B (can do more)
+16 One-Arm Corkscrew Curls | 12 G.B (more weight next time)
+17 Chin-Ups | 5, break, 3
+18 Seated Bent-Over Back Flys | 12 G.B (not sure I did it right, the bands are too loose at the bottom, maybe lighter band with bigger loop)
+19 Curl-Up/Hammer Downs | 10 G.B (the foreside is much harder)
+20 Hammer Curls | 10 G.B (were reverse curls because of bands)
+21 Max Rep Pull-Ups | 3 corn-cob with chair
+22 Superman | Did all 5 sets
+23 In-Out Hammer Curls | 6 G.B (struggled with the outs, lighter band next time)
+24 Strip-Set Curls | 12, 12, 8, 8 G.B (should start with higher weight)
