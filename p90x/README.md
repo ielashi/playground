@@ -9,6 +9,11 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 ## Notes
 
 ### Week 5
+* **Day 5: 2021.02.04**
+  Lega and back + Ab ripper X. Again made the mistake of eating before the workout. never again.
+* **Day 4: 2021.02.03**
+  Yoga X. My half moons are getting better, also feeling that my hamstrings are getting more flexible.
+
 * **Day 3: 2021.02.02**
 
   Did Back & Biceps + Ab Ripper. Doing better on Ab Ripper.
@@ -138,12 +143,12 @@ _  | Week 3
 
 ### Legs & Back
 
-_  | Week 3
-------------- | -------------
-01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold
-02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold
-03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold
-04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold
+_  | Week 3 | Week 5
+------------- | ------------- | -------
+01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold
+02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold
+03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric
+04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric
 
 ### Chest, Shoulders & Triceps
 
