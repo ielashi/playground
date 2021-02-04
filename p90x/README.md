@@ -2,7 +2,7 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 26 / 90
+## Progress: 33 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
@@ -10,7 +10,8 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ### Week 5
 * **Day 5: 2021.02.04**
-  Lega and back + Ab ripper X. Again made the mistake of eating before the workout. never again.
+  Lega and back. Again made the mistake of eating before the workout. never again. I was invited at my neighbour's where I was given some Austrian dessert. It was ok, but now my stomach doesn't feel great so I'll skip ab ripper today.
+  
 * **Day 4: 2021.02.03**
   Yoga X. My half moons are getting better, also feeling that my hamstrings are getting more flexible.
 
