@@ -2,13 +2,19 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 36 / 90
+## Progress: 38 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Notes
 
 ### Week 6
+* **Day 3: 2021.02.09**
+  Back + Biceps + Ab ripper. Drank too much water before ab ripper. shouldn't do that again.
+
+* **Day 2: 2021.02.08**
+  Plyometrics. The usual.
+
 * **Day 1: 2021.02.07**
   Chest, Shoulders & Triceps + Ab Ripper X
 
@@ -192,29 +198,29 @@ _  | Week 5 | Week 6
 
 ### Back & Biceps
 
-_  | Week 5
-------------- | -------------
-01 Wide Front Pull-Ups | 10
-02 Lawnmowers | 12, 12, R.G.B (more weight next time)
-03 Twenty-Ones | 7, 5, 5, R.G.B (too much weight)
-04 One-Arm Cross-Body Curls | 15, 15 R.G (too light)
-05 Switch Grip Pull-Ups | 12 (struggled on the last)
-06 Elbows-Out Lawnmowers | 8 (L), 10 (R), R.G.B, but tighter
-07 Standing Bicep Curls | 13 G.B
-08 One-Arm Concentration Curls | 12, 12, G.B
-09 Corn Cob Pull-Ups | 2 (should use chair next time)
-10 Reverse Grip Bent-Over Rows | 12 G.B (used a small loop, bigger loop or more weight next time)
-11 Open Arm Curls | 11 G.B
-12 Static Arm Curls | 16 G.B (just right)
-13 Towel Pull-Ups | 3 + 3 + 2 + 1
-14 Congdon Locomotives| 40 G.B (small loop, can do more)
-15 Crouching Cohen Curls | 15 G.B (can do more)
-16 One-Arm Corkscrew Curls | 12 G.B (more weight next time)
-17 Chin-Ups | 5, break, 3
-18 Seated Bent-Over Back Flys | 12 G.B (not sure I did it right, the bands are too loose at the bottom, maybe lighter band with bigger loop)
-19 Curl-Up/Hammer Downs | 10 G.B (the foreside is much harder)
-20 Hammer Curls | 10 G.B (were reverse curls because of bands)
-21 Max Rep Pull-Ups | 3 corn-cob with chair
-22 Superman | Did all 5 sets
-23 In-Out Hammer Curls | 6 G.B (struggled with the outs, lighter band next time)
-24 Strip-Set Curls | 12, 12, 8, 8 G.B (should start with higher weight)
+_  | Week 5 | Week 6
+------------- | ------------- | -------
+01 Wide Front Pull-Ups | 10 | 11
+02 Lawnmowers | 12, 12, R.G.B (more weight next time) | 12, 12 YGB (more weight next time)
+03 Twenty-Ones | 7, 5, 5, R.G.B (too much weight) | 7, 7, 7, GB (just right)
+04 One-Arm Cross-Body Curls | 15, 15 R.G (too light) | 10, 10 GB (can do more)
+05 Switch Grip Pull-Ups | 12 (struggled on the last) | 8
+06 Elbows-Out Lawnmowers | 8 (L), 10 (R), R.G.B, but tighter | 10 L, 10 R, RGB (not sure I'm raising my elbow high enough)
+07 Standing Bicep Curls | 13 G.B | 13 RGB
+08 One-Arm Concentration Curls | 12, 12, G.B |  8 (R), 12 (L), RGB (maybe the loop was less tight on my left)
+09 Corn Cob Pull-Ups | 2 (should use chair next time) | 5 (with chair assistance, maybe try bands next time?)
+10 Reverse Grip Bent-Over Rows | 12 G.B (used a small loop, bigger loop or more weight next time) | 12 R.G.B (used a small loop, bigger loop or more weight next time)
+11 Open Arm Curls | 11 G.B | 10 RGB
+12 Static Arm Curls | 16 G.B (just right) | 16 G.B (just right)
+13 Towel Pull-Ups | 3 + 3 + 2 + 1 | 3 + 3 + 2 + 1 (used lower bar instead of towel)
+14 Congdon Locomotives| 40 G.B (small loop, can do more) | 40 G.B (can do more) |
+15 Crouching Cohen Curls | 15 G.B (can do more) | 14 RGB (deep squat)
+16 One-Arm Corkscrew Curls | 12 G.B (more weight next time) | 10 RGB
+17 Chin-Ups | 5, break, 3 | 7, break, 3
+18 Seated Bent-Over Back Flys | 12 G.B (not sure I did it right, the bands are too loose at the bottom, maybe lighter band with bigger loop) | 16 BB, feeling it more, but too light
+19 Curl-Up/Hammer Downs | 10 G.B (the foreside is much harder) | 14 BB with wide stance, good but need more weight
+20 Hammer Curls | 10 G.B (were reverse curls because of bands) | 13 G.B (more weight next time)
+21 Max Rep Pull-Ups | 3 corn-cob with chair | 3 wide + 4 chin-ups
+22 Superman | Did all 5 sets | All 5 sets
+23 In-Out Hammer Curls | 6 G.B (struggled with the outs, lighter band next time) | 13 BB wide stance (too light)
+24 Strip-Set Curls | 12, 12, 8, 8 G.B (should start with higher weight) | 8 RGB wide stance, 8 RGB narrow stance, 8 GB wide, 8 GB narrow
