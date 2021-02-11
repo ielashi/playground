@@ -2,13 +2,20 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 38 / 90
+## Progress: 40 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Notes
 
 ### Week 6
+
+* **Day 5: 2021.02.11**
+  Lega and back + Ab ripper. The usual.
+  
+* **Day 4: 2021.02.10**
+  Yoga X. Love this.
+  
 * **Day 3: 2021.02.09**
   Back + Biceps + Ab ripper. Drank too much water before ab ripper. shouldn't do that again.
 
@@ -160,12 +167,12 @@ _  | Week 3
 
 ### Legs & Back
 
-_  | Week 3 | Week 5
-------------- | ------------- | -------
-01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold
-02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold
-03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric
-04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric
+_  | Week 3 | Week 5 | Week 6 
+------------- | ------------- | ------- | -----
+01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold | R1: 13 with isometric hold<br>R2: 11
+02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold | R1: 11<br>R2: 8 
+03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric | R1: 9<br>R2: 9 + 2
+04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric | R1: 11<br>R2: 9
 
 ### Chest, Shoulders & Triceps
 
