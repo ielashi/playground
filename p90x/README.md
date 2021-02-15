@@ -8,7 +8,19 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ## Notes
 
+### Week 7
+* **Day 1: 2021.02.15**
+  Chest, Shoulders & Triceps + Ab Ripper X
+
 ### Week 6
+* **Day 7: 2021.02.14**
+  Did half of the X stretch. Didn't feel like finishing it (it's optional anyways).
+  
+* **2021.02.13**
+  Went skiing.
+  
+* **Day 6: 2021.02.12**
+  Did half of Kenpo X. Don't want to over do it since I'm skiing tomorrow.
 
 * **Day 5: 2021.02.11**
   Lega and back + Ab ripper. The usual.
@@ -176,32 +188,32 @@ _  | Week 3 | Week 5 | Week 6
 
 ### Chest, Shoulders & Triceps
 
-_  | Week 5 | Week 6
-------------- | ------------- | -------
-01 Slow-Motion 3-in-1 Push-Ups | 4, 4, 1 + 3 with knees, no bonus | 4, 4, 2 + 2 with knees, 5 bonus fast
-02 In & Out Shoulder Flys | 16, RB (can do more) | 16 BB (just right)
-03 Chair Dips | 10 straight legs, 10 with leg raise (5 each side), 10 straight legs | 20 with leg raise (alternate every 5) + 5 straight legs
-04 Plange Push-Ups | 10 | 12
-05 Pike Presses | 12 (in between version) | 12 (in between)
-06 Side Tri-Rises| 15 on each side | 16 each side
-07 Floor Flys | 16 (took a little break at 12) | 16 (took a little break at 12)
-08 Scarecrows | 15, RB, can do more | 12 BB, more weight next time. 
-09 Overhead Tricep Extensions | 15, RB, can do more | 12 BB
-10 Two-Twitch Speed Push-Ups | 8 | 10 (standard width) + 4 fast after break
-11 Y-Presses | 13, BB, can do more | 8 B.Bl
-12 Lying Tricep Extensions | 13, BB | 9 B.Bl
-13 Side-to-Side Push-Ups | 10 | 10
-14 Pour Flys | 12, RB | 9 BB
-15 Side-Leaning Tricep Extensions | 12, 12, RB | 10, 10 BB<br>discovered my elbow isn't straight to the ceiling<br>need to lean more next time
-16 One-Arm Push-Ups | 8 (on knees, not very much depth) | 10 (on knees, deeper)
-17 Weighted Circles | 30 + 4, Bl.B (took a break, couldn't finish last set) | 40 (took a little mini-set break)
-18 Throw the Bomb | 11 each side, RB, can do more | 11 BB
-19 Clap or Plyo Push-Ups | 6 (can do more but want to be careful with my shoulder) | 6
-20 Slo-Mo Throws | forgot what I did (oops!) | 8 RB
-21 Front-to-Back Tricep Extensions | 10 each side, RB, can do more | 10 BB each side
-22 One-Arm Balance Push-Ups | 8 | 7
-23 Fly-Row Presses | 10 RB, can do more | 9 + 2 BB (took a little break)
-24 Dumbbell Cross-Body Blows | 10 each arm, BB | 15 each arm BB
+_  | Week 5 | Week 6 | Week 7
+------------- | ------------- | ------- | ------
+01 Slow-Motion 3-in-1 Push-Ups | 4, 4, 1 + 3 with knees, no bonus | 4, 4, 2 + 2 with knees, 5 bonus fast | 4, 4, 3+1 with knees, 5 bonus fast
+02 In & Out Shoulder Flys | 16, RB (can do more) | 16 BB (just right) | 16 BB (just right)
+03 Chair Dips | 10 straight legs, 10 with leg raise (5 each side), 10 straight legs | 20 with leg raise (alternate every 5) + 5 straight legs | 20 with leg raise (alternate every 5) + 10 straight legs
+04 Plange Push-Ups | 10 | 12 | 12
+05 Pike Presses | 12 (in between version) | 12 (in between) | 8 (better form, I think)
+06 Side Tri-Rises| 15 on each side | 16 each side | 20 each side
+07 Floor Flys | 16 (took a little break at 12) | 16 (took a little break at 12) | 16 (no breaks)
+08 Scarecrows | 15, RB, can do more | 12 BB, more weight next time.  | 10 B.Bl
+09 Overhead Tricep Extensions | 15, RB, can do more | 12 BB | 10 BB
+10 Two-Twitch Speed Push-Ups | 8 | 10 (standard width) + 4 fast after break | 10 (standard width) + 5 fast after break
+11 Y-Presses | 13, BB, can do more | 8 B.Bl | 9 B.Bl
+12 Lying Tricep Extensions | 13, BB | 9 B.Bl | 11 B.Bl
+13 Side-to-Side Push-Ups | 10 | 10 | 12
+14 Pour Flys | 12, RB | 9 BB | 12 BB
+15 Side-Leaning Tricep Extensions | 12, 12, RB | 10, 10 BB<br>discovered my elbow isn't straight to the ceiling<br>need to lean more next time | 10, 10 BB
+16 One-Arm Push-Ups | 8 (on knees, not very much depth) | 10 (on knees, deeper) |  12 on knees
+17 Weighted Circles | 30 + 4, Bl (took a break, couldn't finish last set) | 40 Bl (took a little mini-set break) | Same as before
+18 Throw the Bomb | 11 each side, RB, can do more | 11 BB | 11 BB
+19 Clap or Plyo Push-Ups | 6 (can do more but want to be careful with my shoulder) | 6 | 7
+20 Slo-Mo Throws | forgot what I did (oops!) | 8 RB | 9 RB
+21 Front-to-Back Tricep Extensions | 10 each side, RB, can do more | 10 BB each side | 10 BB |
+22 One-Arm Balance Push-Ups | 8 | 7 | 8
+23 Fly-Row Presses | 10 RB, can do more | 9 + 2 BB (took a little break) | 11 BB
+24 Dumbbell Cross-Body Blows | 10 each arm, BB | 15 each arm BB | 15 BB each
 
 ### Back & Biceps
 
