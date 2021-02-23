@@ -2,13 +2,26 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 45 / 90
+## Progress: 50 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Notes
 
+### Week 8
+* **Day 2: 2021.02.23**
+  Core synergistics.
+
+* **Day 1: 2021.02.22**
+  Yoga X. My half moons, while far from perfect are getting better. Also, my hamstrings are getting more flexible.
+
 ### Week 7
+* **Day 7: 2021.02.21**
+  Snowshoe hike + X Stretch
+
+* **Day 6: 2021.02.20**
+  Did _not_ do Kenpo. Was feeling very tired and stiff, and was going to do a snow hike the next day.
+
 * **Day 5: 2021.02.19**
   Legs and back + ab ripper x. My abs feel very sore. They certainly need a break. Good thing I have a rest week coming up.
   
