@@ -9,6 +9,14 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 ## Notes
 
 ### Week 9
+* **Day 5: 2021.03. 7**
+  Legs & Back + Ab Ripper X
+
+* **Day 4: 2021.03.6**
+  YogaX
+  
+* **2021.03.5**
+  Flying to Egypt. Couldn't workout.
 
 * **Day 3: 2021.03.4**
   Shoulders + Arms. Visible improvement from last time. Also Ab RipperX.
@@ -253,12 +261,12 @@ _  | Week 3 | Week 9
 
 ### Legs & Back
 
-_  | Week 3 | Week 5 | Week 6 | Week 7
-------------- | ------------- | ------- | ----- | -----
-01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold | R1: 13 with isometric hold<br>R2: 11 | R1: 14<br>R2: 12
-02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold | R1: 11<br>R2: 8 | R1: 10<br> R2: 9
-03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric | R1: 9<br>R2: 9 + 2 | R1: 10<br>R2: 9 + 1
-04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric | R1: 11<br>R2: 9 | R1: 12<br>R2: 9
+_  | Week 3 | Week 5 | Week 6 | Week 7 | Week 9
+------------- | ------------- | ------- | ----- | ----- | ------
+01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold | R1: 13 with isometric hold<br>R2: 11 | R1: 14<br>R2: 12 | R1: 14<br>R2: 12
+02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold | R1: 11<br>R2: 8 | R1: 10<br> R2: 9 | R1: 10<br>R2: 7+1 (slower)
+03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric | R1: 9<br>R2: 9 + 2 | R1: 10<br>R2: 9 + 1 | R1: 11<br>R2: 8 + 2
+04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric | R1: 11<br>R2: 9 | R1: 12<br>R2: 9 | R1: 11<br>R2: 7
 
 ### Chest, Shoulders & Triceps
 
