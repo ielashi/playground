@@ -8,7 +8,18 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ## Journal
 
+### Week 11
+
+* **Day 1: 2021.03. 18**
+  Chest & Back, Ab Ripper X
+
 ### Week 10
+* **Day 7: 2021.03. 17**
+  Rest
+  
+* **Day 6: 2021.03. 16**
+  Kenpo X
+  
 * **Day 5: 2021.03. 15**
   Legs & Back + Ab Ripper X
 
@@ -249,20 +260,20 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ### Chest & Back
 
-_  | Week 9
-------------- | -------------
-01 Standard Push-Ups | R1: 18<br>R2: 18
-02 Wide Front Pull-Ups | R1: 10<br>R2: 10
-03 Military Push-Ups | R1: 14<br>R2: 14
-04 Reverse Grip Chin-Ups | R1: 10<br>R2: 10
-05 Wide Fly Push-Ups | R1: 14<br>R2: 14
-06 Closed Grip Overhand Pull-Ups | R1: 9<br>R2: 9
-07 Decline Push-Ups | R1: 12<br>R2: 10
-08 Heavy Pants | R1: 15G.B with loop, need more<br> 23 R.G.B
-09 Diamond Push-Ups | R1: 14<br>R2: 12
-10 Lawnmowers | R1: 15 R.G.B both sides<br>R2: 10 R.G.B each side
-11 Dive-Bomber Push-Ups | R1: 10<br>R2: 8
-12 Back Flys | R1: 15 G<br> R2: 16 G
+_  | Week 9 | Week 11
+------------- | ------------- | ---------
+01 Standard Push-Ups | R1: 18<br>R2: 18 | R1: 20<br>R2: 20
+02 Wide Front Pull-Ups | R1: 10<br>R2: 10 | R1: 11<br> R2: 12
+03 Military Push-Ups | R1: 14<br>R2: 14 | R1: 16<br>R2: 18
+04 Reverse Grip Chin-Ups | R1: 10<br>R2: 10 | R1: 12<br>R2: 12
+05 Wide Fly Push-Ups | R1: 14<br>R2: 14 | R1: 16<br>R2: 16
+06 Closed Grip Overhand Pull-Ups | R1: 9<br>R2: 9 | R1: 9 + 1<br>R2: 7 + 2
+07 Decline Push-Ups | R1: 12<br>R2: 10 | R1: 15<br>R2: 13
+08 Heavy Pants | R1: 15G.B with loop, need more<br>R2: 23 R.G.B | R1: 18 R.G.B.Bl (need bigger loop)<br>R2: 11
+09 Diamond Push-Ups | R1: 14<br>R2: 12 | R1: 16<br>R2: 16
+10 Lawnmowers | R1: 15 R.G.B both sides<br>R2: 10 R.G.B each side | R1: 11 RGBBl each side (need more)<br>R2: 11
+11 Dive-Bomber Push-Ups | R1: 10<br>R2: 8 | R1: 12<br>R2: 9
+12 Back Flys | R1: 15 G<br> R2: 16 G | R1: 16 G<br>R2: 11 G.Bl (a bit too much)
 
 ### Shoulders & Arms
 
