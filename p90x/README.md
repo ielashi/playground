@@ -10,6 +10,15 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ### Week 11
 
+* **Day 3: 2021.03. 23**
+  Shoulders, Bi, Tri + Ab Ripper X. Wasn't "feeling it" today.
+
+* **Day 2: 2021.03. 22**
+  Plyometrics
+  
+* **2021.03.19,20,21**
+  Traveling and couldn't work out.
+
 * **Day 1: 2021.03. 18**
   Chest & Back, Ab Ripper X
 
@@ -277,23 +286,23 @@ _  | Week 9 | Week 11
 
 ### Shoulders & Arms
 
-_  | Week 3 | Week 9
-------------- | -------------
-01 Alternating Shoulder Presses  | R1: 12, B.G, need to use heavier weight<br>R2: 8, B.G.Bl, just right | R1: 8 B.G.Bl<br>R2: 19 B.G.Bl
-02 In & Out Bicep Curls  | R1: 16, B.G.Bl<br>R2: 16, B.G.Bl | R1: 16 B.G.Bl <br> R2: B.G.Bl (can do more)
-03 Two-Arm Tricep Kickbacks  | R1: 12, B.Bl<br>R2: 13, B.Bl | R1: 12 B.G<br>R2: 13 B.G (can do just a little more)
-04 Deep Swimmer’s Presses | R1: 12, B.G, can do more<br>R2: 8, B.G.Bl (just right) | R1: 9 B.G.Bl<br>R2: 8 B.G.Bl
-05 Full Supination Concentration Curls | R1: 14, B.G, can do more<br>R2: 14, B.G, too easy; more weight next time | R1: 15 G.B.Bl<br>R2: 11 B.G.Bl.R (try wider feet next time)
-06 Chair Dips | R1: 20 (8 straight + 12 legs raised)<br>R2: 26 (5 straight + 16 legs raised + 5 straight) | R1: 30 (leg raise alternating on 5)<br>R2: 30
-07 Upright Rows | R1: 13, B.Bl.G, no loop<br>R2: 11, B.Bl.G, small loop  | R1: 11 B.Bl (feet standard width. felt slight pain in shoulder)<br>R2: 15 B wide stance, no pain in shoulder this time, try slightly higher weight next time
-08 Static Arm Curls | R1: 16, B.Bl.G, no loop; do small loop next time<br>R2: 16, B.Bl.G, started with small loop, but was too hard.<br>Maybe less intense band and bigger loop next time | R1: 16 B.G (feet parallel)<br>R2: R.G.B (leaning stance) can do more
-09 Flip-Grip Twist Tricep Kickbacks | R1: 12, B, small loop; try bigger loop<br>R2: 12, B.Bl, no loop | R1: 10 B.G (no loop)<br> R1: 12 B.G (form little shaky at the top)
-10 Two-Angle Shoulder Flys | R1: 16, B, no loop; just right<br>R2: 16, B, no loop | R1: 10 B no loop<br> R2: 14 B no loop
-11 Crouching Cohen Curls | R1: 13, B.Bl, small loop; bigger loop next time<br>R2: 15, B.Bl (slightly bigger loop, still need more) | R1: 13 R.G.B<br> 15 R.G.B not finding the right tension
-12 Lying-Down Tricep Extensions | R1: 15, Bl, too easy<br>R2: 8, B, slight pain in right shoulder; try green next time | R1: 11 G, slight strain in my right shoulder, but not bad<br>R2: 15 G
-13 In & Out Straight-Arm Shoulder Flys | _ |R1: 16 B (leaning stance)<br>R2: 16 B
-14 Congdon Curls | _ | R1: 12 B.G (parallel stance)<br>R2: 6 B.G (leaning stance, much harder)
-15 Side Tri-Rises | _ | R1: 25 each side<br> R2: 22 each side
+_  | Week 3 | Week 9 | Week 11
+------------- | ------------- | ------- | --------
+01 Alternating Shoulder Presses  | R1: 12, B.G, need to use heavier weight<br>R2: 8, B.G.Bl, just right | R1: 8 B.G.Bl<br>R2: 9 B.G.Bl | R1: 7 B.G.Bl<br>R2: 8
+02 In & Out Bicep Curls  | R1: 16, B.G.Bl<br>R2: 16, B.G.Bl | R1: 16 B.G.Bl <br> R2: B.G.Bl (can do more) | R1: 16 B.G.Bl<br>R2: 16 B.G.Bl
+03 Two-Arm Tricep Kickbacks  | R1: 12, B.Bl<br>R2: 13, B.Bl | R1: 12 B.G<br>R2: 13 B.G (can do just a little more) | R1: 13 G.B<br>R2: 13 B.G
+04 Deep Swimmer’s Presses | R1: 12, B.G, can do more<br>R2: 8, B.G.Bl (just right) | R1: 9 B.G.Bl<br>R2: 8 B.G.Bl | R1: 8 B.G.Bl<br> R2: 6
+05 Full Supination Concentration Curls | R1: 14, B.G, can do more<br>R2: 14, B.G, too easy; more weight next time | R1: 15 G.B.Bl<br>R2: 11 B.G.Bl.R (try wider feet next time) | R1: 16 B.G.Bl<br>R2: 24 (12 each side) B.Bl.G.R
+06 Chair Dips | R1: 20 (8 straight + 12 legs raised)<br>R2: 26 (5 straight + 16 legs raised + 5 straight) | R1: 30 (leg raise alternating on 5)<br>R2: 30 | R1: 30 (alternating leg raise every 5)<br>R2: 30
+07 Upright Rows | R1: 13, B.Bl.G, no loop<br>R2: 11, B.Bl.G, small loop  | R1: 11 B.Bl (feet standard width. felt slight pain in shoulder)<br>R2: 15 B wide stance, no pain in shoulder this time, try slightly higher weight next time | R1: 13 B.Y (no shoulder pain)<br>R2: 12
+08 Static Arm Curls | R1: 16, B.Bl.G, no loop; do small loop next time<br>R2: 16, B.Bl.G, started with small loop, but was too hard.<br>Maybe less intense band and bigger loop next time | R1: 16 B.G (feet parallel)<br>R2: R.G.B (leaning stance) can do more | R1: 16 B.G.Bl.R<br>R2: 16 B.G.Bl.R.Y
+09 Flip-Grip Twist Tricep Kickbacks | R1: 12, B, small loop; try bigger loop<br>R2: 12, B.Bl, no loop | R1: 10 B.G (no loop)<br> R1: 12 B.G (form little shaky at the top) | R1: 8 B.G (no loop)<br>R2: 10 B.G
+10 Two-Angle Shoulder Flys | R1: 16, B, no loop; just right<br>R2: 16, B, no loop | R1: 10 B no loop<br> R2: 14 B no loop | R1: 10 B.Y no loop<br>R2: 10 B.Y
+11 Crouching Cohen Curls | R1: 13, B.Bl, small loop; bigger loop next time<br>R2: 15, B.Bl (slightly bigger loop, still need more) | R1: 13 R.G.B<br> 15 R.G.B not finding the right tension | R1: 10 B.G.Bl<br>R2: 10 B.G.Bl (really don't like this exercise)
+12 Lying-Down Tricep Extensions | R1: 15, Bl, too easy<br>R2: 8, B, slight pain in right shoulder; try green next time | R1: 11 G, slight strain in my right shoulder, but not bad<br>R2: 15 G | R1: G 12<br>R2: 13 G (slight pain in right shoulder)
+13 In & Out Straight-Arm Shoulder Flys | _ |R1: 16 B (leaning stance)<br>R2: 16 B | R1: 16 B<br>
+14 Congdon Curls | _ | R1: 12 B.G (parallel stance)<br>R2: 6 B.G (leaning stance, much harder) | R1: 10 B (too light)
+15 Side Tri-Rises | _ | R1: 25 each side<br> R2: 22 each side | R1: 25 each side<br>R2: 22 each side
 
 ### Legs & Back
 
