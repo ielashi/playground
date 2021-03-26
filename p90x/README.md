@@ -10,6 +10,12 @@ Workout progress is updated in the sheet in this folder as well as in the worksh
 
 ### Week 11
 
+* **Day 5: 2021.03.25**
+  Legs & Back + Ab Ripper X
+
+* **Day 4: 2021.03.24**
+  YogaX
+
 * **Day 3: 2021.03. 23**
   Shoulders, Bi, Tri + Ab Ripper X. Wasn't "feeling it" today.
 
@@ -306,12 +312,12 @@ _  | Week 3 | Week 9 | Week 11
 
 ### Legs & Back
 
-_  | Week 3 | Week 5 | Week 6 | Week 7 | Week 9 | Week 10
-------------- | ------------- | ------- | ----- | ----- | ------ | -----
-01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold | R1: 13 with isometric hold<br>R2: 11 | R1: 14<br>R2: 12 | R1: 14<br>R2: 12 | R1: 12<br>R2: 10 (isometric)
-02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold | R1: 11<br>R2: 8 | R1: 10<br> R2: 9 | R1: 10<br>R2: 7+1 (slower) | R1: 12<br>R2: 9 (isometric)
-03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric | R1: 9<br>R2: 9 + 2 | R1: 10<br>R2: 9 + 1 | R1: 11<br>R2: 8 + 2 | R1: 12<br>R2: 7 + 2 (isometric)
-04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric | R1: 11<br>R2: 9 | R1: 12<br>R2: 9 | R1: 11<br>R2: 7 | R1: 12<br>R2: 9 (isometric)
+_  | Week 3 | Week 5 | Week 6 | Week 7 | Week 9 | Week 10 | Week 11
+------------- | ------------- | ------- | ----- | ----- | ------ | ----- | -----
+01 Reverse Grip Chin-Ups  | R1: 12, with isometric hold<br>R2: 8, with isometric hold | R1: 12, with isometric hold<br>R2: 10, no isometric hold | R1: 13 with isometric hold<br>R2: 11 | R1: 14<br>R2: 12 | R1: 14<br>R2: 12 | R1: 12<br>R2: 10 (isometric) | R1: 12<br>R2: 10
+02 Wide Front Pull-Ups  | R1: 8, with isometric hold<br>R2: 6, with isometric hold | R1: 10, with some isometric hold<br>R2: 6, no isometric hold | R1: 11<br>R2: 8 | R1: 10<br> R2: 9 | R1: 10<br>R2: 7+1 (slower) | R1: 12<br>R2: 9 (isometric) | R1: 12<br>R2: 10
+03 Closed Grip Overhand Pull-Ups  | R1: 8, with isometric hold<br>R2: 5, with isometric hold | R1: 8, no isometric<br>R2: 8, no isometric | R1: 9<br>R2: 9 + 2 | R1: 10<br>R2: 9 + 1 | R1: 11<br>R2: 8 + 2 | R1: 12<br>R2: 7 + 2 (isometric) | R1: 9<br>R2: 7 + 3
+04 Switch Grip Pull-Ups | R1: 8, with isometric hold<br>R2: 8, no isometric hold | R1: 9 no isometric<br>R2: 8 no isomtric | R1: 11<br>R2: 9 | R1: 12<br>R2: 9 | R1: 11<br>R2: 7 | R1: 12<br>R2: 9 (isometric) | R1: 12<br>R2: 12
 
 ### Chest, Shoulders & Triceps
 
