@@ -2,13 +2,33 @@
 
 P90X is old but gold. As of today (January 3rd, 2021) I am deciding to actually go through the classic version of P90X.
 
-## Progress: 84 / 90
+Update (April 13th, 2021): Project is now done.
+
+## Progress: 90 / 90
 
 Workout progress is updated in the sheet in this folder as well as in the worksheets section below.
 
 ## Journal
 
 ### Week 13
+
+* **Day 6: 2021.04.13**
+  Yoga X
+
+* **Day 5: 2021.04.12**
+  Kenpo
+
+* **Day 4: 2021.04.11**
+  Core synergistics
+
+* **Day 3: 2021.04.10**
+  X Stretch
+
+* **2021.04.09**
+  Couldn't workout for very good reason.
+
+* **Day 2: 2021.04.08**
+  Yoga X
 
 * **Day 1: 2021.04.07**
   Core Synergistics
