@@ -8,6 +8,9 @@ Finished P90X and now trying out P90X2.
 
 ### Week 1
 
+* **Day 3: 2021.04.25**
+  X2 Total Body.
+
 * **Day 1: 2021.04.21**
   X2 Core. Really enjoyed the emphasis on mobility. Still need to get med and stability balls.
 
@@ -33,3 +36,21 @@ _  | Week 1
 15 X2 Diver | 8 (can do more)
 16 Ryan Sphinx Twist Crunch | 10/10
 17 One Leg Med Ball Burpee (Alternate Every 3 Reps) | Without med ball
+
+
+### X2 Total Body
+
+_  | Week 1
+------------- | -------------
+01 1-Arm Chest Press | R1: B.R 13L 13R. Way too easy. Need towel on my back.<br>: B.G 13L 13R. Still too light
+02 4-Position Pull-Up | R1: 12 (can't do facing-palm pullups with my pull-up bar)<br>R2: 12
+03 Push-Up Side Arm Balance | R1: 10<br>R2: 10. Love this.
+04 Switch Lunge Press | R1: B. 12 R, just right<br>R2: B. 12 L
+05 Warrior 3 Kickback | R1: Blu. 12 L, too light<br> G, 12 R, better but still light
+06 Warrior 3 Curl | R1: G, 15 R, too light<br>R2: B, 15 L
+07 Boing Push-Up | R1: 6 clap push-ups + 6 military (don't have stability ball yet)<br>8 clap push-ups + 5 military
+08 Crunchy Lever Pull-Up | R1: 4 (did it wrong at first)<br>R2: 5
+09 Mule Kick Burpee | R1: 5<br>R2: 5 (struggled)
+10 Swimmer’s Curl Press in 1⁄2 Chair  | R1: G, 10 R, too light<br>R2: B, 9 L, just right
+11 Balance Kickback on Stability Ball | R1: G, 12, just right<br>R2: G, 12
+12 Rocket Launcher Preacher Curl | R1: B, 10 R, just right<br>R2: B, 10 L, felt easier
