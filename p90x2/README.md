@@ -2,18 +2,31 @@
 
 Finished P90X and now trying out P90X2.
 
-## Progress: 1 / 90
+## Progress: 6 / 90
 
 ## Journal
 
 ### Week 1
 
-* **Day 3: 2021.04.25**
+* **Day 6: 2021.04.29**
+  Balance + Power.
+
+* **Day 5: 2021.04.27**
+  X2 Yoga. It was ok, but I prefer Yoga X more.
+
+* **Day 4: 2021.04.25**
   X2 Total Body.
+
+* **Day 3: 2021.04.23**
+  X2 Recovery + Mobility (did first half then did my own foam rolling)
+
+* **Day 2: 2021.04.22**
+  X2 Ploycide.
 
 * **Day 1: 2021.04.21**
   X2 Core. Really enjoyed the emphasis on mobility. Still need to get med and stability balls.
 
+## Workouts
 
 ### X2 Core
 
@@ -54,3 +67,29 @@ _  | Week 1
 10 Swimmer’s Curl Press in 1⁄2 Chair  | R1: G, 10 R, too light<br>R2: B, 9 L, just right
 11 Balance Kickback on Stability Ball | R1: G, 12, just right<br>R2: G, 12
 12 Rocket Launcher Preacher Curl | R1: B, 10 R, just right<br>R2: B, 10 L, felt easier
+
+### X2 Balance + Power
+
+_  | Week 1
+------------- | -------------
+01 Sphinx to Plank Plyo Bounce | 8 (did more of a rollup)
+02 1-Leg Plyo Squat Reach | 12/12 (lost balance a few times)
+03 Russian Twist | 18, used med ball without dumbells, range of motion quite limited
+04 Sphinx to Plank Roll Up | 10
+05 4-Direction 1-Leg Squat Hop | Good, but lost my balance slightly
+06 Forearm Alt Side Plank | 16, wide feet, quite shaky
+07 Decline Sphinx Plank Press | 10
+08 Weighted Katherine | 30, need to bend my back leg more
+09 Plank X Crunch | 14, lost my balance a lot, need to go slower 
+10 Renegade Row 1⁄2 Lolasana | 7, can only do 1/2 lolasana. Need to figure out how to train for the full one.
+11 Glute Bridge Roll Out | 9 + 6, should go slower next time
+12 Over/Under Boat | 5 pairs. Pretty miserable at this.
+13 Warrior Row Press | 8/8 Green band, balance was quite good
+14 Split Lunge | 10/10 struggled with balance
+15 Crawly Crab Press | 8 struggled with balance
+16 Lateral Plyo Push-Up | 8 + 4
+17 Lunge Kneel Knee Raise | 12/12 Green band (just right)
+18 X Plank Spider Twist | 12 good shape
+19 Dumbbell Row to Side Plank | 8 each side green band (just right, but maybe can do more?)
+20 Dumbbell Super Burpee | 6 each side
+21 Plank Ball Crunch | 10
