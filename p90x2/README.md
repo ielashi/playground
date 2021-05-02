@@ -6,7 +6,17 @@ Finished P90X and now trying out P90X2.
 
 ## Journal
 
+### Week 2
+
+Week 1 had a lot of procrastination. Time to get things back on track.
+
+* **Day 1: 2021.05.02**
+  X2 Core. Enjoyed it more now that I have stability + med balls.
+
 ### Week 1
+
+* **Day 7: 2021.04.30**
+  Rest
 
 * **Day 6: 2021.04.29**
   Balance + Power.
@@ -30,25 +40,25 @@ Finished P90X and now trying out P90X2.
 
 ### X2 Core
 
-_  | Week 1
-------------- | -------------
-01 Sphinx Plank Crunch | Can do more.
-02 Warrior 3 Cross Crunch | 10 each side. Struggled a bit with balance. Should be slower next time.
-03 Single Leg Walk Out to Sphinx | 5/5
-04 Half Angel | 10/10 (struggled a bit and was rushing)
-05 Roller Boat | Did the whole thing, but struggled straightening the legs.
-06 3 Speed Med Ball Push-Up | 16 + 2 (don't have a med ball yet, did alternating wide and normal pushups)
-07 One Leg Lateral Leap Squat | Really enjoyed it. Need some work on my balance.
-08 Core Circle | On the floor (no stability ball), raised legs a little bit. 
-09 Holmsen Screamer Lunge | 15 (hard)
-10 Med Ball Dreya Roll | 12 (no med balls yet)
-11 Plank Burpee on Stability Ball | Regular burpees (no stability ball yet)
-12 Banana Ball Switch Crunch | Forgot to count. Used towel instead of medball.
-13 3-Point Squat Press with Med Ball | Red band. Just right.
-14 Slo-Mo Balance Climber (Alternating Legs) | 20 without stability ball
-15 X2 Diver | 8 (can do more)
-16 Ryan Sphinx Twist Crunch | 10/10
-17 One Leg Med Ball Burpee (Alternate Every 3 Reps) | Without med ball
+_  | Week 1 | Week 2
+------------- | ------------- | -------
+01 Sphinx Plank Crunch | Can do more. | Did the whole time. Felt good.
+02 Warrior 3 Cross Crunch | 10 each side. Struggled a bit with balance. Should be slower next time. | 10/10 Felt good balance.
+03 Single Leg Walk Out to Sphinx | 5/5 | 5/5 tapped each foot once. Generally good balance
+04 Half Angel | 10/10 (struggled a bit and was rushing) | 8/8 better form. Also moved the leg back to exercise the butt (to help with my IT band issues)
+05 Roller Boat | Did the whole thing, but struggled straightening the legs. | Whole things. Legs are more straight.
+06 3 Speed Med Ball Push-Up | 16 + 2 (don't have a med ball yet, did alternating wide and normal pushups) | 20 wide/normal. Won't do med ball because of shoulder injury
+07 One Leg Lateral Leap Squat | Really enjoyed it. Need some work on my balance. | Balance improved.
+08 Core Circle | On the floor (no stability ball), raised legs a little bit. | With stability ball w/o leg raise. Should try more with leg raise next time
+09 Holmsen Screamer Lunge | 15 (hard) | Same
+10 Med Ball Dreya Roll | 12 (no med balls yet) | W/ med balls. Not sure how many.
+11 Plank Burpee on Stability Ball | Regular burpees (no stability ball yet) | W/ stability ball. Struggled to maintain balance.
+12 Banana Ball Switch Crunch | Forgot to count. Used towel instead of medball. | 10 w/ stability ball. Enjoyed it.
+13 3-Point Squat Press with Med Ball | Red band. Just right. | W/ med ball. I think it's too light. Should do bands instead.
+14 Slo-Mo Balance Climber (Alternating Legs) | 20 without stability ball | 20 w/stability. Good. Try to touch the knees more
+15 X2 Diver | 8 (can do more) | 10 
+16 Ryan Sphinx Twist Crunch | 10/10 | 10/10
+17 One Leg Med Ball Burpee (Alternate Every 3 Reps) | Without med ball | Wow. Really struggled with balance here. Only did 6 with the med ball.
 
 
 ### X2 Total Body
