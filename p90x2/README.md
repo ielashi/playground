@@ -10,6 +10,15 @@ Finished P90X and now trying out P90X2.
 
 Week 1 had a lot of procrastination. Time to get things back on track.
 
+* **Day 4: 2021.05.05**
+  X2 Total Body + X2 Ab Ripper
+
+* **Day 3: 2021.05.04**
+  Rest
+
+* **Day 2: 2021.05.03**
+  Really enjoyed it.
+
 * **Day 1: 2021.05.02**
   X2 Core. Enjoyed it more now that I have stability + med balls.
 
@@ -63,20 +72,20 @@ _  | Week 1 | Week 2
 
 ### X2 Total Body
 
-_  | Week 1
-------------- | -------------
-01 1-Arm Chest Press | R1: B.R 13L 13R. Way too easy. Need towel on my back.<br>: B.G 13L 13R. Still too light
-02 4-Position Pull-Up | R1: 12 (can't do facing-palm pullups with my pull-up bar)<br>R2: 12
-03 Push-Up Side Arm Balance | R1: 10<br>R2: 10. Love this.
-04 Switch Lunge Press | R1: B. 12 R, just right<br>R2: B. 12 L
-05 Warrior 3 Kickback | R1: Blu. 12 L, too light<br> G, 12 R, better but still light
-06 Warrior 3 Curl | R1: G, 15 R, too light<br>R2: B, 15 L
-07 Boing Push-Up | R1: 6 clap push-ups + 6 military (don't have stability ball yet)<br>8 clap push-ups + 5 military
-08 Crunchy Lever Pull-Up | R1: 4 (did it wrong at first)<br>R2: 5
-09 Mule Kick Burpee | R1: 5<br>R2: 5 (struggled)
-10 Swimmer’s Curl Press in 1⁄2 Chair  | R1: G, 10 R, too light<br>R2: B, 9 L, just right
-11 Balance Kickback on Stability Ball | R1: G, 12, just right<br>R2: G, 12
-12 Rocket Launcher Preacher Curl | R1: B, 10 R, just right<br>R2: B, 10 L, felt easier
+_  | Week 1 | Week 2
+------------- | ------------- | ----------
+01 1-Arm Chest Press | R1: B.R 13L 13R. Way too easy. Need towel on my back.<br>: B.G 13L 13R. Still too light | R1: B.G 15/15. Need much more weight.<br>R2: B.G.R 13/13 (sort of feeling it, but not quite)
+02 4-Position Pull-Up | R1: 12 (can't do facing-palm pullups with my pull-up bar)<br>R2: 12 | R1: 15<br>R2: 15
+03 Push-Up Side Arm Balance | R1: 10<br>R2: 10. Love this. | R1: 10<br>R2: 12
+04 Switch Lunge Press | R1: B. 12 R, just right<br>R2: B. 12 L | R1: B. 12R<br>R2: B. 12L 
+05 Warrior 3 Kickback | R1: Blu. 12 L, too light<br> G, 12 R, better but still light | R1: B. 12R<br>R2: B. 14L
+06 Warrior 3 Curl | R1: G, 15 R, too light<br>R2: B, 15 L | R1: B, 12L<br>R2: B, 14R
+07 Boing Push-Up | R1: 6 clap push-ups + 6 military (don't have stability ball yet)<br>8 clap push-ups + 5 military | R1: 12 w/ stability ball. Wobbled a bit<br>R2: 12 w/stability. less wobbly
+08 Crunchy Lever Pull-Up | R1: 4 (did it wrong at first)<br>R2: 5 | R1: 8<br>R2: 6 (feel stronger)
+09 Mule Kick Burpee | R1: 5<br>R2: 5 (struggled) | R1: 5<br>R2: 6 (tough)
+10 Swimmer’s Curl Press in 1⁄2 Chair  | R1: G, 10 R, too light<br>R2: B, 9 L, just right | R1: B, 12 R, try BY next time<br>R1: B.Bl 10 L JR
+11 Balance Kickback on Stability Ball | R1: G, 12, just right<br>R2: G, 12 | R1: B, 8R, JR<br>R2: B, 8L, (maybe can do more?)
+12 Rocket Launcher Preacher Curl | R1: B, 10 R, just right<br>R2: B, 10 L, felt easier | R1: B, 12R<br>R2: B, 12L (try B.Bl next time)
 
 ### X2 Balance + Power
 
