@@ -10,6 +10,12 @@ Finished P90X and now trying out P90X2.
 
 Week 1 had a lot of procrastination. Time to get things back on track.
 
+* **Day 6: 2021.05.09**
+  Balance + Power
+
+* **Day 5: 2021.05.07**
+  Yoga X (first half). I prefer Yoga X to X2 Yoga.
+
 * **Day 4: 2021.05.05**
   X2 Total Body + X2 Ab Ripper
 
@@ -89,26 +95,26 @@ _  | Week 1 | Week 2
 
 ### X2 Balance + Power
 
-_  | Week 1
-------------- | -------------
-01 Sphinx to Plank Plyo Bounce | 8 (did more of a rollup)
-02 1-Leg Plyo Squat Reach | 12/12 (lost balance a few times)
-03 Russian Twist | 18, used med ball without dumbells, range of motion quite limited
-04 Sphinx to Plank Roll Up | 10
-05 4-Direction 1-Leg Squat Hop | Good, but lost my balance slightly
-06 Forearm Alt Side Plank | 16, wide feet, quite shaky
-07 Decline Sphinx Plank Press | 10
-08 Weighted Katherine | 30, need to bend my back leg more
-09 Plank X Crunch | 14, lost my balance a lot, need to go slower 
-10 Renegade Row 1⁄2 Lolasana | 7, can only do 1/2 lolasana. Need to figure out how to train for the full one.
-11 Glute Bridge Roll Out | 9 + 6, should go slower next time
-12 Over/Under Boat | 5 pairs. Pretty miserable at this.
-13 Warrior Row Press | 8/8 Green band, balance was quite good
-14 Split Lunge | 10/10 struggled with balance
-15 Crawly Crab Press | 8 struggled with balance
-16 Lateral Plyo Push-Up | 8 + 4
-17 Lunge Kneel Knee Raise | 12/12 Green band (just right)
-18 X Plank Spider Twist | 12 good shape
-19 Dumbbell Row to Side Plank | 8 each side green band (just right, but maybe can do more?)
-20 Dumbbell Super Burpee | 6 each side
-21 Plank Ball Crunch | 10
+_  | Week 1 | Week 2
+------------- | ------------- | -----------
+01 Sphinx to Plank Plyo Bounce | 8 (did more of a rollup) | 10
+02 1-Leg Plyo Squat Reach | 12/12 (lost balance a few times) | 12/12 (balance is better)
+03 Russian Twist | 18, used med ball without dumbells, range of motion quite limited | Didn't count. Tried medballs in the hands (as opposed to the knees). Form not good.
+04 Sphinx to Plank Roll Up | 10 | 13
+05 4-Direction 1-Leg Squat Hop | Good, but lost my balance slightly | Good. Tapped 3-4 times.
+06 Forearm Alt Side Plank | 16, wide feet, quite shaky | 7 (x2), feels less shaky
+07 Decline Sphinx Plank Press | 10 | 7, struggled with flexibility
+08 Weighted Katherine | 30, need to bend my back leg more | 30
+09 Plank X Crunch | 14, lost my balance a lot, need to go slower | 10-12. Slower and more controlled
+10 Renegade Row 1⁄2 Lolasana | 7, can only do 1/2 lolasana. Need to figure out how to train for the full one. | 8 1/2 lalasana
+11 Glute Bridge Roll Out | 9 + 6, should go slower next time | 19
+12 Over/Under Boat | 5 pairs. Pretty miserable at this. | 6. More controlled
+13 Warrior Row Press | 8/8 Green band, balance was quite good | 8/8 G double band. Tapped twice
+14 Split Lunge | 10/10 struggled with balance | 10/10 Balance was quite good.
+15 Crawly Crab Press | 8 struggled with balance | 12, less struggle
+16 Lateral Plyo Push-Up | 8 + 4 | 14
+17 Lunge Kneel Knee Raise | 12/12 Green band (just right) | 10/10 G (try G.Y next time)
+18 X Plank Spider Twist | 12 good shape | 14
+19 Dumbbell Row to Side Plank | 8 each side green band (just right, but maybe can do more?) | 8 each side GY
+20 Dumbbell Super Burpee | 6 each side | 6/6
+21 Plank Ball Crunch | 10 | 10 (very hard to balance)
