@@ -6,6 +6,13 @@ Finished P90X and now trying out P90X2.
 
 ## Journal
 
+### Week 4
+
+* **Day 1: 2021.07.08**
+  Chest, back, balance + X2 Ab Ripper. Feels really good to do these workouts again. Felt slight ache in my shoulder, so I will modify plyo pushup exercises. I also chose not to do the bonus rounds so I don't strain myself too much initially.
+
+Long break...
+
 ### Week 3
 
 * **Day 1: 2021.05.10**
@@ -123,3 +130,28 @@ _  | Week 1 | Week 2
 19 Dumbbell Row to Side Plank | 8 each side green band (just right, but maybe can do more?) | 8 each side GY
 20 Dumbbell Super Burpee | 6 each side | 6/6
 21 Plank Ball Crunch | 10 | 10 (very hard to balance)
+
+### Chest + Back + Balance
+
+_  | Week 4
+------------- | -------------
+01 Pull-Up X | 10
+02 Plyo Stability Ball Push-Up | 12
+03 Core Crunch Chin-Up | 8 + 2 (accidentally didn't do full chin-up)
+04 Push-Up Side Arm Balance | 10
+05 Lever | 5 (not very good, should check 1-1)
+06 4-Ball Push-Up | 8 (2 med balls + foot up/round)
+07 Chin Pull | 11.5
+08 The Impossible/Possible | 5 w/o stability ball (couldn't balance on the ball)
+09 “L” Pull-Up | 4 w/ knees bent. Needs a lot of work
+10 3-Ball Plyo Push-Up (I do it with 2 balls) | 10
+11 Vaulter Pull-Up (Switch Grip Every 2 Reps) | 12
+12 Elevated Stability Ball Push-Up | 5 (not balancing well)
+13 In & Out | 8
+14 Swimmer’s Push-Up | 6 (not balanced well)
+15 4-Grip Pull-Up (doing close grip instead of palm to palm) | 8
+16 Double Wide Push-Up | 10
+17 Double Wide Pull-Up<br>Don't have double wide. Doing wide | 5
+18 Chattarocker | -
+19 Towel Pull-Up | -
+20 Med Ball Plyo Push-Up | -
