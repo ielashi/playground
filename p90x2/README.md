@@ -8,6 +8,15 @@ Finished P90X and now trying out P90X2.
 
 ### Week 4
 
+* **Day 4: 2021.07.11**
+  Shoulders + Arms & X Ab Ripper
+
+* **Day 3: 2021.07.10**
+  Rest (little bit of foam rolling)
+
+* **Day 2: 2021.07.09**
+  Plyocide
+
 * **Day 1: 2021.07.08**
   Chest, back, balance + X2 Ab Ripper. Feels really good to do these workouts again. Felt slight ache in my shoulder, so I will modify plyo pushup exercises. I also chose not to do the bonus rounds so I don't strain myself too much initially.
 
@@ -155,3 +164,29 @@ _  | Week 4
 18 Chattarocker | -
 19 Towel Pull-Up | -
 20 Med Ball Plyo Push-Up | -
+
+### Shoulders + Arms
+
+_  | Week 4
+----------- | ----------
+01 Balance Curl | 8/8 BG (can do more)
+02 Arnold Press (Alternate Arms) | 5 on each arm BG (maybe too much?)
+03 Overhead Tricep Pull | 8/8 B (more weight & less reps)
+04 Six Direction Shoulder Fly | 8 B JR, right leg off (rep = all directions)
+05 Crazy Eight | 8x4 B, try just a little more weight
+06 Y-T Fly | 14 (140g cans as weight), JR
+07 Rocket Launcher Tricep Kickback | 5,5 B JR
+08 Balance Curl | 8/8 BGY
+09 Arnold Press (Alternate Arms) | 4/4 (full reps) BG, try BBl next time
+10 Overhead Tricep Pull | 6/6 BY (too much weight)
+11 Six Direction Shoulder Fly | 8 B JR, left leg off (rep = all directions)
+12 Crazy Eight | 8x4 BY, can do a little more weight
+13 Y-T Fly | 12 (140g cans as weight), JR
+14 Rocket Launcher Tricep Kickback | 5,5 B (try bigger knots)
+15 Balance Curl | 10/10 BGBl
+16 Arnold Press (Alternate Arms) | 5,5 BY (much better weight)
+17 Overhead Tricep Pull | 8/6 B JR
+18 Six Direction Shoulder Fly | 8,8 B alternating feet JR
+19 Crazy Eight | 8x4 BBl, can still do more weight
+20 Y-T Fly |  14 (140g cans as weight), can do more weight
+21 Rocket Launcher Tricep Kickback | 5/5 B, slightly bigger loop, can do more
