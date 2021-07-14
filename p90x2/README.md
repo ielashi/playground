@@ -2,11 +2,18 @@
 
 Finished P90X and now trying out P90X2.
 
-## Progress: 6 / 90
-
 ## Journal
 
 ### Week 4
+
+* **Day 6: 2021.07.14**
+  Base + Back
+
+* **Day 5: 2021.07.13**
+  Yoga X (from P90X)
+
+* **2021.07.12**
+  Did not work out
 
 * **Day 4: 2021.07.11**
   Shoulders + Arms & X Ab Ripper
@@ -190,3 +197,28 @@ _  | Week 4
 19 Crazy Eight | 8x4 BBl, can still do more weight
 20 Y-T Fly |  14 (140g cans as weight), can do more weight
 21 Rocket Launcher Tricep Kickback | 5/5 B, slightly bigger loop, can do more
+
+### Base + ack
+
+_  | Week 4
+----------- | ----------
+01 No Kip Pull-Up | 8
+02 Plyo Frog Squat | 20
+03 Wide Leg Close Grip Chin-Up | 8
+04 Chair Jump | 20
+05 Chin Pull | 8
+06 Plyo Lunge Press | 20 (no weights)
+07 V Pull-Up | 6
+08 Surfer Spin | Didn't count
+09 Kippy Cross Fugly Pull | 7 (no kepping)
+10 Jack-in-the-Box Knee Tuck | 20
+11 No Kip Pull-Up | 8
+12 Plyo Frog Squat | 20
+13 Wide Leg Close Grip Chin-Up | 7
+14 Chair Jump | 20
+15 Chin Pull | 8
+16 Plyo Lunge Press | 25 (with 140g cans)
+17 V Pull-Up | 4
+18 Surfer Spin | Didn't count 
+19 Kippy Cross Fugly Pull | 5 (no kepping)
+20 Jack-in-the-Box Knee Tuck | 25!!
